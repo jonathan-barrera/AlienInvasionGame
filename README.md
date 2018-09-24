@@ -1,4 +1,4 @@
-# AlienInvasionGame
+# Alien Invasion Game
 A clone of the Alien Invasion game written in Python with some original modifications.
 
 # Instructions
